@@ -1,0 +1,12 @@
+{
+  "name": "gitmaster3000-test-repo",
+  "version": "1.0.0",
+  "description": "gitmaster3000-test-repo",
+  "repositoryLayout": {
+    "formatVersion": 4,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
